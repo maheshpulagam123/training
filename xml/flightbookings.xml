@@ -1,0 +1,46 @@
+<flightsbookings totalbookinngs="2">
+    <flightbooking>
+        <bookingid>501</bookingid>
+        <bookingstatus>confirmed</bookingstatus>
+        <bookingdate>2026-11-05</bookingdate>
+        <passenger>
+            <passengerid>1001</passengerid>
+            <name>mahesh</name>
+            <email>mahes@gmail.com</email>
+            <contactnumbers>
+                <contactnumber>7894561230</contactnumber>
+                <contactnumber>0321654987</contactnumber>
+            </contactnumbers>
+            
+        </passenger>
+        <flight>
+                <flightnumber>er123</flightnumber>
+                <airline>Indian Air</airline>
+                <origination>DEL</origination>
+                <destination>BLR</destination>
+        </flight>
+    </flightbooking>
+
+    <flightbooking>
+        <bookingid>502</bookingid>
+        <bookingstatus>confirmed</bookingstatus>
+        <bookingdate>2026-11-06</bookingdate>
+        <passenger>
+            <passengerid>1002</passengerid>
+            <name>satya</name>
+            <email>mahes@gmail.com</email>
+            <contactnumbers>
+                <contactnumber>7894568530</contactnumber>
+                <contactnumber>8321624987</contactnumber>
+            </contactnumbers>
+            
+        </passenger>
+        <flight>
+                <flightnumber>we123</flightnumber>
+                <airline>Indian Air</airline>
+                <origination>HYD</origination>
+                <destination>BLR</destination>
+            </flight>
+    </flightbooking>
+
+</flightsbookings>
